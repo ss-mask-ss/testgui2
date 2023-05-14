@@ -1,0 +1,4 @@
+name: testgui2
+version: '${project.version}'
+main: mask.inc.testgui2.Testgui2
+api-version: 1.19
